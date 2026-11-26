@@ -3,7 +3,7 @@
   "name": "module-billing-invoicing-api",
   "display_name": "Billing Invoicing API",
   "description": "Sanctum-protected API adapter for Billing Invoicing.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "category": "presentation",
   "provider": "Liberu\\Billing\\Invoicing\\Api\\InvoicingApiServiceProvider",
   "requires": {
